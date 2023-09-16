@@ -1,6 +1,6 @@
 # Link Deploy
 
-(https://aldi-putra.netlify.app/)
+[Click to view site](https://aldi-putra.netlify.app/)
 
 # Getting Started with Create React App
 
